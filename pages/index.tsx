@@ -32,6 +32,12 @@ export default function ToPage() {
           </React.Fragment>
         ))}
       </ul>
+      <a href="https://github.com/bees/nextjs-redirect-behaviors/blob/main/middleware.ts">
+        Middleware definition
+      </a>
+      <a href="https://github.com/bees/nextjs-redirect-behaviors/blob/main/next.config.js">
+        Next config definition
+      </a>
     </div>
   );
 }
